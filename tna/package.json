@@ -2,10 +2,12 @@
   "name": "tna",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jfocco.github.io/TNA/",
   "dependencies": {
     "@material-ui/core": "^4.4.0",
     "@material-ui/icons": "^4.2.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
@@ -15,6 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "git remote set-url origin https://github.com/jfocco/TNA.git && npm run build",
+    "deploy": "gh-pages -d build",
+    "postdeploy": "git remote set-url origin https://JFocco@bitbucket.org/JFocco/tna_front_end.git",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
