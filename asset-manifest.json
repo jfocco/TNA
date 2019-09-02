@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/TNA/static/css/main.b9aad092.chunk.css",
-    "main.js": "/TNA/static/js/main.e7c4f554.chunk.js",
-    "main.js.map": "/TNA/static/js/main.e7c4f554.chunk.js.map",
+    "main.css": "/TNA/static/css/main.81dbed4c.chunk.css",
+    "main.js": "/TNA/static/js/main.cdffddd9.chunk.js",
+    "main.js.map": "/TNA/static/js/main.cdffddd9.chunk.js.map",
     "runtime~main.js": "/TNA/static/js/runtime~main.f42caf64.js",
     "runtime~main.js.map": "/TNA/static/js/runtime~main.f42caf64.js.map",
     "static/css/2.84af191b.chunk.css": "/TNA/static/css/2.84af191b.chunk.css",
-    "static/js/2.91a01539.chunk.js": "/TNA/static/js/2.91a01539.chunk.js",
-    "static/js/2.91a01539.chunk.js.map": "/TNA/static/js/2.91a01539.chunk.js.map",
+    "static/js/2.df60fdc7.chunk.js": "/TNA/static/js/2.df60fdc7.chunk.js",
+    "static/js/2.df60fdc7.chunk.js.map": "/TNA/static/js/2.df60fdc7.chunk.js.map",
     "index.html": "/TNA/index.html",
-    "precache-manifest.cd4e115ce2429292fbf79123efa94dac.js": "/TNA/precache-manifest.cd4e115ce2429292fbf79123efa94dac.js",
+    "precache-manifest.270b9ec744d9a92c1d4a984c5d8ed8cd.js": "/TNA/precache-manifest.270b9ec744d9a92c1d4a984c5d8ed8cd.js",
     "service-worker.js": "/TNA/service-worker.js",
     "static/css/2.84af191b.chunk.css.map": "/TNA/static/css/2.84af191b.chunk.css.map",
-    "static/css/main.b9aad092.chunk.css.map": "/TNA/static/css/main.b9aad092.chunk.css.map",
-    "static/media/font-awesome.min.css": "/TNA/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/css/main.81dbed4c.chunk.css.map": "/TNA/static/css/main.81dbed4c.chunk.css.map",
+    "static/media/index.css": "/TNA/static/media/Arboria-Medium.3b027329.otf",
+    "static/media/abs.png": "/TNA/static/media/abs.0bc1cfde.png",
+    "static/media/back.jpg": "/TNA/static/media/back.d23e996c.jpg",
+    "static/media/biceps.jpg": "/TNA/static/media/biceps.a5a090ab.jpg",
+    "static/media/chest.jpg": "/TNA/static/media/chest.74c79594.jpg",
+    "static/media/font-awesome.min.css": "/TNA/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/legs.jpg": "/TNA/static/media/legs.c2cc4501.jpg",
+    "static/media/profile-picture.png": "/TNA/static/media/profile-picture.a91056ab.png"
   }
 }
