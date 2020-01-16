@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a13ae5c2337df38d36d7b6a964b5fb4a",
+    "revision": "2992b539a8bf13b7344178facf58bba3",
     "url": "/TNA/index.html"
   },
   {
-    "revision": "71440ebd9a7ef179dd32",
+    "revision": "7681471b7d0ff1721c2c",
     "url": "/TNA/static/css/2.f22c1bad.chunk.css"
   },
   {
-    "revision": "5516c7e70e85ac0dadf6",
-    "url": "/TNA/static/css/main.a7783b54.chunk.css"
+    "revision": "7b82eaee927b7cae22d4",
+    "url": "/TNA/static/css/main.c11652bb.chunk.css"
   },
   {
-    "revision": "71440ebd9a7ef179dd32",
-    "url": "/TNA/static/js/2.00a3ec90.chunk.js"
+    "revision": "7681471b7d0ff1721c2c",
+    "url": "/TNA/static/js/2.45ecd9d9.chunk.js"
   },
   {
-    "revision": "5516c7e70e85ac0dadf6",
-    "url": "/TNA/static/js/main.9c1d3f2f.chunk.js"
+    "revision": "7b82eaee927b7cae22d4",
+    "url": "/TNA/static/js/main.d4a3b207.chunk.js"
   },
   {
     "revision": "217772c150e03242ee3a",
@@ -224,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TNA/static/media/legs.c2cc4501.jpg"
   },
   {
+    "revision": "d975a04d0c57a636367b1f5fdd94ca25",
+    "url": "/TNA/static/media/nutrition.d975a04d.jpg"
+  },
+  {
     "revision": "a91056ab1ad3c4da24594028a022b635",
     "url": "/TNA/static/media/profile-picture.a91056ab.png"
   },
@@ -232,11 +236,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TNA/static/media/profile.471a1ad3.png"
   },
   {
+    "revision": "a47425ef4afe37bb34792c206e5ae8b5",
+    "url": "/TNA/static/media/promos.a47425ef.jpg"
+  },
+  {
+    "revision": "ed0d64e03e53f2dc77a0a2e32ca26280",
+    "url": "/TNA/static/media/recipies.ed0d64e0.jpeg"
+  },
+  {
     "revision": "487d28134ba7d097ce3d48929bf24e68",
     "url": "/TNA/static/media/shoulder.487d2813.jpg"
   },
   {
     "revision": "3f4a1ec7d351b558a4f0ac36def4dffb",
     "url": "/TNA/static/media/triceps.3f4a1ec7.jpg"
+  },
+  {
+    "revision": "db4d56ab43591d206f697f7f5b740332",
+    "url": "/TNA/static/media/workout.db4d56ab.jpg"
   }
 ]);

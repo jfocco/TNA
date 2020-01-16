@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TNA/static/css/main.a7783b54.chunk.css",
-    "main.js": "/TNA/static/js/main.9c1d3f2f.chunk.js",
-    "main.js.map": "/TNA/static/js/main.9c1d3f2f.chunk.js.map",
+    "main.css": "/TNA/static/css/main.c11652bb.chunk.css",
+    "main.js": "/TNA/static/js/main.d4a3b207.chunk.js",
+    "main.js.map": "/TNA/static/js/main.d4a3b207.chunk.js.map",
     "runtime~main.js": "/TNA/static/js/runtime~main.f42caf64.js",
     "runtime~main.js.map": "/TNA/static/js/runtime~main.f42caf64.js.map",
     "static/css/2.f22c1bad.chunk.css": "/TNA/static/css/2.f22c1bad.chunk.css",
-    "static/js/2.00a3ec90.chunk.js": "/TNA/static/js/2.00a3ec90.chunk.js",
-    "static/js/2.00a3ec90.chunk.js.map": "/TNA/static/js/2.00a3ec90.chunk.js.map",
+    "static/js/2.45ecd9d9.chunk.js": "/TNA/static/js/2.45ecd9d9.chunk.js",
+    "static/js/2.45ecd9d9.chunk.js.map": "/TNA/static/js/2.45ecd9d9.chunk.js.map",
     "index.html": "/TNA/index.html",
-    "precache-manifest.f2902c55057e7c4c812b993abea0d677.js": "/TNA/precache-manifest.f2902c55057e7c4c812b993abea0d677.js",
+    "precache-manifest.29873ea0c023ad0f5af4b44dba4aeebd.js": "/TNA/precache-manifest.29873ea0c023ad0f5af4b44dba4aeebd.js",
     "service-worker.js": "/TNA/service-worker.js",
     "static/css/2.f22c1bad.chunk.css.map": "/TNA/static/css/2.f22c1bad.chunk.css.map",
-    "static/css/main.a7783b54.chunk.css.map": "/TNA/static/css/main.a7783b54.chunk.css.map",
+    "static/css/main.c11652bb.chunk.css.map": "/TNA/static/css/main.c11652bb.chunk.css.map",
     "static/media/main.scss": "/TNA/static/media/Arboria-Medium.3b027329.otf",
     "static/media/mdb.css": "/TNA/static/media/arrow_right.8ef6a08c.svg",
     "static/media/abs.png": "/TNA/static/media/abs.0bc1cfde.png",
@@ -22,9 +22,13 @@
     "static/media/all.min.css": "/TNA/static/media/fa-solid-900.c2801fb4.svg",
     "static/media/font-awesome.min.css": "/TNA/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/legs.jpg": "/TNA/static/media/legs.c2cc4501.jpg",
+    "static/media/nutrition.jpg": "/TNA/static/media/nutrition.d975a04d.jpg",
     "static/media/profile-picture.png": "/TNA/static/media/profile-picture.a91056ab.png",
     "static/media/profile.png": "/TNA/static/media/profile.471a1ad3.png",
+    "static/media/promos.jpg": "/TNA/static/media/promos.a47425ef.jpg",
+    "static/media/recipies.jpeg": "/TNA/static/media/recipies.ed0d64e0.jpeg",
     "static/media/shoulder.jpg": "/TNA/static/media/shoulder.487d2813.jpg",
-    "static/media/triceps.jpg": "/TNA/static/media/triceps.3f4a1ec7.jpg"
+    "static/media/triceps.jpg": "/TNA/static/media/triceps.3f4a1ec7.jpg",
+    "static/media/workout.jpg": "/TNA/static/media/workout.db4d56ab.jpg"
   }
 }
