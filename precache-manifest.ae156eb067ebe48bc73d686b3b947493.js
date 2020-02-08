@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2992b539a8bf13b7344178facf58bba3",
+    "revision": "a8ec8d424c50c267fc77db6598af10f2",
     "url": "/TNA/index.html"
   },
   {
-    "revision": "7681471b7d0ff1721c2c",
+    "revision": "7c22c6c7e8819ea85f0e",
     "url": "/TNA/static/css/2.f22c1bad.chunk.css"
   },
   {
-    "revision": "7b82eaee927b7cae22d4",
-    "url": "/TNA/static/css/main.c11652bb.chunk.css"
+    "revision": "c0116a28a3fba78355bd",
+    "url": "/TNA/static/css/main.2e1797c9.chunk.css"
   },
   {
-    "revision": "7681471b7d0ff1721c2c",
-    "url": "/TNA/static/js/2.45ecd9d9.chunk.js"
+    "revision": "7c22c6c7e8819ea85f0e",
+    "url": "/TNA/static/js/2.50a86958.chunk.js"
   },
   {
-    "revision": "7b82eaee927b7cae22d4",
-    "url": "/TNA/static/js/main.d4a3b207.chunk.js"
+    "revision": "c0116a28a3fba78355bd",
+    "url": "/TNA/static/js/main.a4ee438e.chunk.js"
   },
   {
     "revision": "217772c150e03242ee3a",
@@ -112,32 +112,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TNA/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
-    "revision": "0bc1cfdea8bcee8da743aad508111bf9",
-    "url": "/TNA/static/media/abs.0bc1cfde.png"
-  },
-  {
     "revision": "11911410dca2de148f30954eb2fd5eab",
     "url": "/TNA/static/media/arrow_left.11911410.svg"
   },
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/TNA/static/media/arrow_right.8ef6a08c.svg"
-  },
-  {
-    "revision": "d23e996c3172060a666ff87c7ea0276d",
-    "url": "/TNA/static/media/back.d23e996c.jpg"
-  },
-  {
-    "revision": "4f18446430220453bd62e47966143a69",
-    "url": "/TNA/static/media/biceps.4f184464.jpg"
-  },
-  {
-    "revision": "a5a090abc5ec2439e960cad9786533d2",
-    "url": "/TNA/static/media/biceps.a5a090ab.jpg"
-  },
-  {
-    "revision": "74c795947de64f8f9cbe605cee323399",
-    "url": "/TNA/static/media/chest.74c79594.jpg"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -220,16 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TNA/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "c2cc45010b0329815e3047d89a341f77",
-    "url": "/TNA/static/media/legs.c2cc4501.jpg"
-  },
-  {
     "revision": "d975a04d0c57a636367b1f5fdd94ca25",
     "url": "/TNA/static/media/nutrition.d975a04d.jpg"
-  },
-  {
-    "revision": "a91056ab1ad3c4da24594028a022b635",
-    "url": "/TNA/static/media/profile-picture.a91056ab.png"
   },
   {
     "revision": "471a1ad342659289433e05a611d206f8",
@@ -242,14 +214,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed0d64e03e53f2dc77a0a2e32ca26280",
     "url": "/TNA/static/media/recipies.ed0d64e0.jpeg"
-  },
-  {
-    "revision": "487d28134ba7d097ce3d48929bf24e68",
-    "url": "/TNA/static/media/shoulder.487d2813.jpg"
-  },
-  {
-    "revision": "3f4a1ec7d351b558a4f0ac36def4dffb",
-    "url": "/TNA/static/media/triceps.3f4a1ec7.jpg"
   },
   {
     "revision": "db4d56ab43591d206f697f7f5b740332",
