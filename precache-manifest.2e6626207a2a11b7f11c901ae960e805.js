@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae7dbdf9fabb4321b8293ca80c432b50",
+    "revision": "99a8de1fcb26375c9280fa140a5c38f1",
     "url": "/TNA/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TNA/static/css/2.f22c1bad.chunk.css"
   },
   {
-    "revision": "646c69f07a70a2d521df",
+    "revision": "31f52ce99cde2fd2a85b",
     "url": "/TNA/static/css/main.2e1797c9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TNA/static/js/2.50a86958.chunk.js"
   },
   {
-    "revision": "646c69f07a70a2d521df",
-    "url": "/TNA/static/js/main.1346ff95.chunk.js"
+    "revision": "31f52ce99cde2fd2a85b",
+    "url": "/TNA/static/js/main.f223c277.chunk.js"
   },
   {
     "revision": "217772c150e03242ee3a",
